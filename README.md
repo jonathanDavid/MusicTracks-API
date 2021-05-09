@@ -19,3 +19,14 @@ Upload Audio File:
 Separate tracks:
 
 Download tracks:
+
+# Models
+User:
+ id:
+ name:
+ password:
+ musicIds:
+Music:  
+ id:
+ main:
+ tracks:   
